@@ -34,8 +34,8 @@ Me chamo Gabriel Denti e sou um estudante de Sistemas de Informação (S.I.) e u
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldenti&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do Gabriel" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldenti&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldenti&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do Gabriel" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldenti&layout=compact&theme=tokyonight" alt="Top Linguagens" height="150" />
 </div>
 <br/>
 
