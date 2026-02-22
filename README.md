@@ -50,3 +50,13 @@ Fique à vontade para se conectar comigo para batermos um papo sobre tecnologia,
 
 ✨ Obrigado por visitar meu perfil!  
 Vamos construir coisas incríveis juntos 🚀
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieldenti/gabrieldenti/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieldenti/gabrieldenti/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/gabrieldenti/gabrieldenti/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
