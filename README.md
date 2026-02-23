@@ -42,7 +42,7 @@ Me chamo Gabriel Denti e sou um estudante de Sistemas de Informação (S.I.) e u
 ## 📫 Contatos:
 Fique à vontade para se conectar comigo para batermos um papo sobre tecnologia, código ou negócios!
 <div>
-<a href = "mailto:gabrieldentii@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrieldentii@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/gabriel-denti-06643121a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
