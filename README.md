@@ -31,14 +31,6 @@ Me chamo Gabriel Denti e sou um estudante de Sistemas de Informação (S.I.) e u
 
 <br/>
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldenti&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do Gabriel" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldenti&layout=compact&theme=tokyonight" alt="Top Linguagens" height="150" />
-</div>
-<br/>
-
 ## 📫 Contatos:
 Fique à vontade para se conectar comigo para batermos um papo sobre tecnologia, código ou negócios!
 <div>
@@ -48,8 +40,7 @@ Fique à vontade para se conectar comigo para batermos um papo sobre tecnologia,
   
 ---
 
-✨ Obrigado por visitar meu perfil!  
-Vamos construir coisas incríveis juntos 🚀
+Obrigado por visitar meu perfil! 🚀
 
 ---
 
